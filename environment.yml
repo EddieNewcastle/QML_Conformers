@@ -1,7 +1,4 @@
 name: Chem_env
-channels:
-  - conda-forge
-  - rdkit
 dependencies:
   - numpy
   - nlp
