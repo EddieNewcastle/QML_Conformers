@@ -2,6 +2,7 @@ name: Chem_env
 channels:
   - conda-forge
   - rdkit
+  - qml
 dependencies:
   - numpy
   - nlp
@@ -9,4 +10,3 @@ dependencies:
   - pip
   - python=3.8
   - rdkit
-  - git+https://github.com/qmlcode/qml@develop
