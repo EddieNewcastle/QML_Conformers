@@ -1,4 +1,6 @@
 name: Chem_env
+channels:
+sudo apt-get install python-pip gfortran libblas-dev liblapack-dev git
 dependencies:
   - numpy
   - nlp
